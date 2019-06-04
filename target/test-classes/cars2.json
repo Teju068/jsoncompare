@@ -1,0 +1,22 @@
+{
+  "firstName": "Amit",
+  "lastName": "Songh",
+  "user": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "HighMander",
+      "price": "23736.62",
+      "year": 2008,
+      "color": "Mauv"
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Soaara",
+      "price": "66403.47",
+      "year": 2002,
+      "color": "Fuscia"
+    }
+  ]
+}
